@@ -1,0 +1,26 @@
+{
+  "name": "dfw2020",
+  "version": "1.0.0",
+  "description": "website for directed fieldwork documentation",
+  "main": "index.js",
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "browsersync": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "./node_modules/.bin/browser-sync  start --server --files='**/*'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpmechem/dfw2020.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cpmechem/dfw2020/issues"
+  },
+  "homepage": "https://github.com/cpmechem/dfw2020#readme"
+}
