@@ -1,10 +1,20 @@
 main {
-  font-family: "helvetica neue", Arial, Helvetica, sans-serif;
-  background: linear-gradient(45deg, #a583f5, #ff9bc1);
+  font-family: Arial, Helvetica, sans-serif;
+  background: lightskyblue;
 }
 .navbar {
-  background-color: #d6d5ff;
+  background-color: lightgray;
 }
 .card-body {
-  background-color: #d6d5ff;
+  background-color: lightgray;
+}
+a {
+  color: black;
+}
+a:visited {
+  color: black;
+}
+a:hover {
+  color: red;
+  text-decoration: none;
 }
