@@ -1,12 +1,14 @@
 main {
   font-family: Arial, Helvetica, sans-serif;
-  background: lightskyblue;
+}
+body {
+  background: #f0ebf4;
 }
 .navbar {
-  background-color: lightgray;
+  background-color: #a1c3d1;
 }
 .card-body {
-  background-color: lightgray;
+  background-color: #b39bc8;
 }
 a {
   color: black;
@@ -15,6 +17,8 @@ a:visited {
   color: black;
 }
 a:hover {
-  color: red;
+  font-weight: bold;
   text-decoration: none;
 }
+
+/* color schemes at https://visme.co/blog/website-color-schemes/ */
