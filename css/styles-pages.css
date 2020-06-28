@@ -2,13 +2,12 @@ main {
   font-family: Arial, Helvetica, sans-serif;
 }
 body {
-  background: #f3e0dc;
-  padding-top: 4em;
+  background: black;
 }
 .navbar {
   background-color: #a1c3d1;
 }
-.card-body {
+.jumbotron {
   background-color: #b39bc8;
 }
 a {
@@ -24,4 +23,3 @@ a:hover {
 }
 
 /* color schemes at https://visme.co/blog/website-color-schemes/ */
-/*  #f3e0dc #a1c3d1 #b39bc8 */
