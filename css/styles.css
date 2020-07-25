@@ -19,9 +19,8 @@ a:visited {
   color: black;
 }
 a:hover {
-  font-weight: normal;
   text-decoration: none;
-  color: black;
+  color: darkslategrey;
 }
 
 /* color schemes at https://visme.co/blog/website-color-schemes/ */
